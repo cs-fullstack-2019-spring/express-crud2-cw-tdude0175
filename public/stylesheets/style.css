@@ -6,3 +6,27 @@ body {
 a {
   color: #00B7FF;
 }
+
+
+.NavBar
+{
+  background: lightgrey;
+  text-align: center;
+}
+
+.index
+{
+  padding-left: 2%;
+}
+
+
+.newForm
+{
+  padding-left: 2%;
+}
+
+
+.editForm
+{
+  padding-left: 2%;
+}
